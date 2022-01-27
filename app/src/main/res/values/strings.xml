@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_2Kt</string>
+    <string name="urlimage">UrlImage</string>
+    <string name="ExampleLink">Вставьте ссылку на картинку:</string>
+    <string name="set_link">Submit</string>
+    <string name="random_link">Random link</string>
+</resources>
